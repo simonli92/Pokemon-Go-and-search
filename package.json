@@ -1,0 +1,36 @@
+{
+  "name": "meetatnoon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "engines": {
+    "node": "4.4.5",
+    "npm": "2.15.5"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "postinstall": "webpack -p --config webpack.prod.config.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^0.13.1",
+    "babel-core": "^6.10.4",
+    "babel-loader": "^6.2.4",
+    "babel-preset-react": "^6.5.0",
+    "body-parser": "^1.15.2",
+    "css-loader": "^0.23.1",
+    "dotenv": "^2.0.0",
+    "express": "^4.14.0",
+    "file-loader": "^0.9.0",
+    "html-webpack-plugin": "^2.21.0",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0",
+    "react-router": "^2.5.0",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.1",
+    "webpack-dev-middleware": "^1.6.1",
+    "webpack-dev-server": "^1.14.1",
+    "webpack-hot-middleware": "^2.12.1"
+  }
+}
