@@ -3,7 +3,9 @@
 http://searchenginepokemon.herokuapp.com/
 
 1.Run npm init
+
 2.Run npm run start.
+
 3.Open localhost:8080
 
 User can login using your facebook username and password.You can like and share the page.
