@@ -12,7 +12,7 @@ User can login using your facebook username and password.You can like and share 
 
 User can search and select what you want.
 
-User can send message about what color you join in Pokemon Go.
+User can send message about what color you join in Pokemon Go Mobile game.
 
 User can comment for the website.
 
